@@ -1,0 +1,7 @@
+[user]
+	name = Derick Olson
+	email = olsonderick@gmail.com
+[core]
+	editor = vim
+[push]
+	default = simple
