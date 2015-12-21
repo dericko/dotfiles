@@ -34,6 +34,7 @@ set shiftwidth=2
 set tabstop=2
 
 " Enable mouse
+
 if has('mouse')
   set mouse=a
 endif
